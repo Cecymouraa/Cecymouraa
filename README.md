@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Atualmente atuo como estagiaria em uma empresa de tecnologia focada em suporte de ERP da Totvs e Desenvolvimento Web.<br>Hoje, busco me especializar na área de front-end através dos meus projetos e cursos.</p>
+<p align="left">Oi! Me chamo Cecília Moura, tenho 20 anos e sou estudante de Engenharia de Software.
+Caí no mundo tech meio que de paraquedas, mas acabei me apaixonando por esse universo cheio de possibilidades!
+
+Atualmente, estou me dedicando ao front-end, aprendendo cada dia mais sobre interfaces e experiências de usuário.
+Mas minha curiosidade não para por aí: tenho vontade de explorar outras áreas da programação também. 🚀
+
+Fique à vontade para acompanhar meus projetos e minha evolução por aqui! 💜</p>
 
 ###
 
