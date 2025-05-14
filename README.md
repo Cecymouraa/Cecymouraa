@@ -1,18 +1,18 @@
-<h2 align="left">Oi! Meu nome é Cecília</h2>
+<h2 align="left">Oi, meu nome é Cecília!...</h2>
 
 ###
 
-<p align="left">Oi! Me chamo Cecília Moura, tenho 20 anos e sou estudante de Engenharia de Software.
+<p align="left">
+  Oi! Me chamo Cecília Moura, tenho 20 anos e sou estudante de Engenharia de Software.
   Caí no mundo tech meio que de paraquedas, mas acabei me apaixonando por esse universo cheio de possibilidades!<br><br>
   Atualmente, estou me dedicando ao front-end, aprendendo cada dia mais sobre interfaces e experiências de usuário.
   Mas minha curiosidade não para por aí: tenho vontade de explorar outras áreas da programação também. 🚀<br><br>
-  Fique à vontade para acompanhar meus projetos e minha evolução por aqui! 💜</p>
-
-###
+  Fique à vontade para acompanhar meus projetos e minha evolução por aqui! 💜
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cecymouraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Cecymouraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cecymouraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -30,18 +30,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/lm_cecy?igsh=NDg4b3Z2dHhwdzkx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/maria-cecilia-m-8a31292bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cecymouraa/Cecymouraa/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cecymouraa/Cecymouraa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cecymouraa/Cecymouraa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cecymouraa/Cecymouraa/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
