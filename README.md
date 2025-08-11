@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Oi! Me chamo Cecília Moura, tenho 20 anos e sou estudante de Engenharia de Software.
+  Oi! Me chamo Cecília Moura, tenho 21 anos e sou estudante de Engenharia de Software.
   Caí no mundo tech meio que de paraquedas, mas acabei me apaixonando por esse universo cheio de possibilidades!<br><br>
   Atualmente, estou me dedicando ao front-end, aprendendo cada dia mais sobre interfaces e experiências de usuário.
   Mas minha curiosidade não para por aí: tenho vontade de explorar outras áreas da programação também. 🚀<br><br>
