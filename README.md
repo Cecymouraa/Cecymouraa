@@ -3,11 +3,13 @@
 ###
 
 <p align="left">
-  Oi! Me chamo Cecília Moura, tenho 21 anos e sou estudante de Engenharia de Software.
-  Caí no mundo tech meio que de paraquedas, mas acabei me apaixonando por esse universo cheio de possibilidades!<br><br>
-  Atualmente, estou me dedicando ao front-end, aprendendo cada dia mais sobre interfaces e experiências de usuário.
-  Mas minha curiosidade não para por aí: tenho vontade de explorar outras áreas da programação também. 🚀<br><br>
-  Fique à vontade para acompanhar meus projetos e minha evolução por aqui! 💜
+  Olá! Eu sou Cecília Moura, tenho 21 anos, sou formada em Processos Gerenciais e atualmente curso Engenharia de Software.
+
+Minha trajetória na área de tecnologia começou de forma inesperada, mas rapidamente me encantei por esse universo dinâmico e cheio de possibilidades. Desde então, venho me dedicando ao desenvolvimento front-end, aprimorando minhas habilidades em interfaces intuitivas, experiência do usuário e boas práticas de código. 
+
+Sou curiosa por natureza e estou sempre em busca de novos aprendizados, meu objetivo é expandir meus conhecimentos e explorar diferentes áreas da programação, construindo soluções criativas e funcionais. 
+
+Aqui você encontrará meus projetos, minha evolução e um pouco do meu caminho no mundo tech. 
 </p>
 
 <div align="center">
